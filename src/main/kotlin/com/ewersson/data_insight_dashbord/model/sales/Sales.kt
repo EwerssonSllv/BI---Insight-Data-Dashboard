@@ -24,5 +24,4 @@ data class Sales(
     @Column(name = "amount")
     private val amount: Double
 
-) {
-}
+)
